@@ -10,4 +10,4 @@ later in a list containing other applicants?
 
 The answer appears to be yes, although I haven't done a statistical analysis.
 
-<img src="img/serial_position_negativity_effect.png" width="256"/>
+<img src="img/serial_position_negativity_effect.png" width="768"/>
