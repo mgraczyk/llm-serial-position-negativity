@@ -101,13 +101,6 @@ def analyze_results(results: list[list[list[float]]]) -> None:
   print("(job, trial, position)", data.shape)
   print("avg_ratings", avg_ratings)
 
-  # plt.figure(figsize=(10, 6))
-  # plt.plot(positions, avg_ratings)
-  # plt.xlabel("Applicant Position")
-  # plt.ylabel("Average Rating")
-  # plt.title("Serial Position-Negativity Effect")
-  # plt.show()
-
   records = []
   for i, job_results in enumerate(results):
     for j, trial_results in enumerate(job_results):
